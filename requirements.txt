@@ -1,0 +1,5 @@
+# Versions used to validate these scripts. Qiskit Aer and IBM credentials are not required.
+qiskit==2.5.1
+numpy==2.4.3
+scipy==1.17.1
+matplotlib==3.11.1
